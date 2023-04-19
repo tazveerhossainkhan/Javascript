@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        alert("Ramadan Mubarak");
+        document.write("muhit here </br>");
+        console.log("Learning JS </br>");
+    </script>
+
+    <script>
+        document.write("Name: Md. Tazveer Hossain Khan </br>")
+        document.write("Mobile: 01615963953 </br>");
+        document.write("Skills: Html    CSS Bootstrap   C   C++ Java    PHP </br>");
+
+    </script>
+</body>
+
+</html>
